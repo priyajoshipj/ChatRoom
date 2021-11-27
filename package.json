@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server",
     "dev": "nodemon server",
-    "build": "tsc"
+    "build": "node server"
   },
   "author": "Brad Traversy",
   "license": "MIT",
