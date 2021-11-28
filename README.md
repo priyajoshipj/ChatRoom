@@ -3,6 +3,12 @@
 2) npm install
 3) npm start
 
+Video For Reference : 
+
+https://user-images.githubusercontent.com/79351439/143733717-95529430-171f-4ccd-bdfe-653969d56aef.mp4
+
+
+
 Some Screen Shot :  
 
 ![chat4](https://user-images.githubusercontent.com/79351439/143733592-a520a993-6596-4121-8550-b6b307f478e8.png)
@@ -13,8 +19,4 @@ Some Screen Shot :
 ![chat6](https://user-images.githubusercontent.com/79351439/143733616-92ec30fb-6d56-4bc4-b201-f8bc7502bf1f.png)
 ![chat7](https://user-images.githubusercontent.com/79351439/143733617-011600e2-15b3-493a-94b9-1173eb7b6b8a.png)
 ![chat8](https://user-images.githubusercontent.com/79351439/143733618-7d426627-9b30-4aba-91fc-f08ac9eed227.png)
-
-Video For Reference : 
-
-https://user-images.githubusercontent.com/79351439/143733717-95529430-171f-4ccd-bdfe-653969d56aef.mp4
 
